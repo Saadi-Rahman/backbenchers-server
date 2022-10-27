@@ -1,34 +1,34 @@
 [
     {
       "id": "01",
-      "name": "Breaking News"
+      "name": "Python Programming"
     },
     {
       "id": "02",
-      "name": "Regular News"
+      "name": "R Programming Course"
     },
     {
       "id": "03",
-      "name": "International News"
+      "name": "SAS Programming Course"
     },
     {
       "id": "04",
-      "name": "Sports"
+      "name": "Java Programming"
     },
     {
       "id": "05",
-      "name": "Entertainment"
+      "name": "JavaScript Course"
     },
     {
       "id": "06",
-      "name": "Culture"
+      "name": "AngularJS Course"
     },
     {
       "id": "07",
-      "name": "Arts"
+      "name": "C Programming"
     },
     {
       "id": "08",
-      "name": "All News"
+      "name": "All Courses"
     }
   ]
